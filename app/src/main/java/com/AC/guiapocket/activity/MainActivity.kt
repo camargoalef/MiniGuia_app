@@ -58,19 +58,19 @@ class MainActivity : AppCompatActivity() {
             longitude = -48.03781291533146
         ))
         serviceList.add(Service(
-            nameResId = R.string.health_center_name,
-            categoryResId = R.string.category_health,
-            descriptionResId = R.string.health_center_description,
-            imageId = R.drawable.clinica,
-            phone = "016988481143",
-            websiteUrl = "https://odontocompany.com/",
-            latitude = -21.497808397773714,
-            longitude = -48.0375175283452
+            nameResId = R.string.princce_hotel_name,
+            categoryResId = R.string.category_hotel,
+            descriptionResId = R.string.princce_hotel_description,
+            imageId = R.drawable.princce_hotel,
+            phone = "01639730010",
+            websiteUrl = "https://princehotel.com.br/",
+            latitude = -21.49691336978993,
+            longitude = -48.03296348145521
         ))
         serviceList.add(Service(
-            nameResId = R.string.sao_marcos_name,
-            categoryResId = R.string.category_construction,
-            descriptionResId = R.string.sao_marcos_description,
+            nameResId = R.string.quiosque_pastel_name,
+            categoryResId = R.string.category_bakery,
+            descriptionResId = R.string.quiosque_pastel_description,
             imageId = R.drawable.quiosque_do_pastel,
             phone = "01639731135",
             websiteUrl = "https://www.pastelaria.com.br/",
@@ -78,14 +78,14 @@ class MainActivity : AppCompatActivity() {
             longitude = -48.03915670208317
         ))
         serviceList.add(Service(
-            nameResId = R.string.post_office_name,
-            categoryResId = R.string.category_services,
-            descriptionResId = R.string.post_office_description,
-            imageId = R.drawable.princce_hotel,
-            phone = "01639730010",
-            websiteUrl = "https://princehotel.com.br/",
-            latitude = -21.49691336978993,
-            longitude = -48.03296348145521
+            nameResId = R.string.danilo_selli_clinic_name,
+            categoryResId = R.string.category_dental,
+            descriptionResId = R.string.danilo_selli_clinic_description,
+            imageId = R.drawable.clinica,
+            phone = "016988481143",
+            websiteUrl = "https://odontocompany.com/",
+            latitude = -21.497808397773714,
+            longitude = -48.0375175283452
         ))
     }
 

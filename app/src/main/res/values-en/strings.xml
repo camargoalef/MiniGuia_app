@@ -19,25 +19,25 @@
     <string name="category_food">Food</string>
     <string name="category_market">Market</string>
     <string name="category_leisure">Leisure</string>
-    <string name="category_health">Health</string>
-    <string name="category_construction">Construction</string>
-    <string name="category_services">Services</string>
+    <string name="category_hotel">Hotel</string>
+    <string name="category_bakery">Pastry Shop</string>
+    <string name="category_dental">Dental Clinic</string>
 
     <string name="kidelicia_name">Kidelicia Snack Bar</string>
     <string name="kidelicia_description">Generous portions and that real-deal snack that truly satisfies your hunger.</string>
 
     <string name="rubinho_market_name">Rubinho Supermarket</string>
-    <string name="rubinho_market_description">A wide variety of products and a top-notch butcher shop.</string>
+    <string name="rubinho_market_description">The largest supermarket in the city.</string>
 
     <string name="rubinho_arena_name">Rubinho Arena</string>
-    <string name="rubinho_arena_description">Soccer field rentals and a full bar for your event.</string>
+    <string name="rubinho_arena_description">Homemade food. In addition to good meals, the establishment has a multi-sport court.</string>
 
-    <string name="health_center_name">Health Center (UBS)</string>
-    <string name="health_center_description">Medical assistance and appointment scheduling.</string>
+    <string name="princce_hotel_name">Princce Hotel</string>
+    <string name="princce_hotel_description">The only hotel in the city, offering comfortable lodging and easy access to main local points.</string>
 
-    <string name="sao_marcos_name">São Marcos Building Supplies</string>
-    <string name="sao_marcos_description">Materials for construction and renovation, from basic to finishing.</string>
+    <string name="quiosque_pastel_name">Pastel Kiosk</string>
+    <string name="quiosque_pastel_description">A well-known spot for its variety of freshly made pastries.</string>
 
-    <string name="post_office_name">Post Office</string>
-    <string name="post_office_description">Sending and receiving packages and mail.</string>
+    <string name="danilo_selli_clinic_name">Dr. Danilo Selli Clinic</string>
+    <string name="danilo_selli_clinic_description">Offers dental services in several specialties.</string>
 </resources>

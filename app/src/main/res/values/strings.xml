@@ -19,25 +19,25 @@
     <string name="category_food">Alimentação</string>
     <string name="category_market">Mercado</string>
     <string name="category_leisure">Lazer</string>
-    <string name="category_health">Saúde</string>
-    <string name="category_construction">Construção</string>
-    <string name="category_services">Serviços</string>
+    <string name="category_hotel">Hotel</string>
+    <string name="category_bakery">Pastelaria</string>
+    <string name="category_dental">Clínica Odontológica</string>
 
     <string name="kidelicia_name">Lanchonete Kidelicia</string>
     <string name="kidelicia_description">Porções caprichadas e aquele podrão que mata a fome de verdade.</string>
 
     <string name="rubinho_market_name">Supermercado Rubinho</string>
-    <string name="rubinho_market_description">Variedade em produtos e um açougue de primeira.</string>
+    <string name="rubinho_market_description">O maior supermercado da cidade.</string>
 
     <string name="rubinho_arena_name">Arena Rubinho</string>
-    <string name="rubinho_arena_description">Aluguel de campo society e um bar completo para o seu evento.</string>
+    <string name="rubinho_arena_description">Comida caseira. Além de boas refeições, o estabelecimento conta com uma quadra poliesportiva.</string>
 
-    <string name="health_center_name">Posto de Saúde (UBS)</string>
-    <string name="health_center_description">Atendimento médico e agendamento de consultas.</string>
+    <string name="princce_hotel_name">Princce Hotel</string>
+    <string name="princce_hotel_description">Único hotel da cidade, oferece hospedagem confortável e fácil acesso aos principais pontos locais.</string>
 
-    <string name="sao_marcos_name">Depósito São Marcos</string>
-    <string name="sao_marcos_description">Materiais para construção e reforma, do básico ao acabamento.</string>
+    <string name="quiosque_pastel_name">Quiosque do Pastel</string>
+    <string name="quiosque_pastel_description">Ponto conhecido pelos pastéis variados e preparados na hora.</string>
 
-    <string name="post_office_name">Correios</string>
-    <string name="post_office_description">Envio e recebimento de encomendas e correspondências.</string>
+    <string name="danilo_selli_clinic_name">Clínica Dr. Danilo Selli</string>
+    <string name="danilo_selli_clinic_description">Oferece atendimentos em diversas especialidades no ramo odontológico.</string>
 </resources>
